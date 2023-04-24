@@ -1,10 +1,7 @@
-# portfolio-alura
-
 <h1 align="center"> Portfolio</h1>
 
 <p align="center">
-Projeto de portfólio em HTML e CSS desenvolvido no curso Alura
- <br/>
+Projeto desenvolvido nos cursos Alura <br/>
 </p>
 
 <p align="center">
