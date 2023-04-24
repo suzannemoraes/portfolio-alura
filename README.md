@@ -36,4 +36,7 @@ Modelo de portfolio desenvolvido com resposividade.
 Você pode visualizar o layout do projeto através [DESSE LINK](https://figmashort.link/AFAtMQ). 
 É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+---
+Suzanne Moraes
+Linkedin: https://www.linkedin.com/in/suzannemoraes/
 
