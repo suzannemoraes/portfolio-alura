@@ -1,7 +1,7 @@
 <h1 align="center"> Portfolio</h1>
 
 <p align="center">
-Projeto desenvolvido nos cursos Alura <br/>
+Projeto de Portfólio desenvolvido em curso <br/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ Projeto desenvolvido nos cursos Alura <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Portfólio" src="./github/preview.png" width="100%">
+  <img alt="projeto Portfólio" src="preview.png" width="100%">
 </p>
 
 
