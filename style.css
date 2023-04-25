@@ -7,7 +7,6 @@
 
         --fonte--primaria:  'Krona One', sans-serif;
         --fonte--secundaria: 'Montserrat', sans-serif;
-
 }
 
 * {
@@ -16,7 +15,6 @@
 }
 
 body {
-    /* height: 100vh; */
     box-sizing: border-box;
     background-color: var(--cor--primaria);
     color: var(--cor--secundaria);
